@@ -11,6 +11,7 @@ whatexploitsare.online notifier
 # Requirements:
 1. [Python 3.7 or newer](https://www.python.org/downloads/)
 2. [win10toast](https://pypi.org/project/win10toast/)
+3. [Requests](https://pypi.org/project/requests/)
 
 # Version:
 1.0
