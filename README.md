@@ -12,8 +12,12 @@ whatexploitsare.online notifier
 1. [Python 3.7 or newer](https://www.python.org/downloads/)
 2. [win10toast](https://pypi.org/project/win10toast/)
 
+# Version:
+1.0
+
 # Credits:
 - BabyHamsta/HamstaGang - API
 - Invell - idk
 - Fad - idk part 2
 - Luminous - This
+
