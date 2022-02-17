@@ -19,5 +19,5 @@ atlas = True
 # Wait time in seconds before checking exploits again (recommended: 10 seconds)
 wait = 10
 
-# If you want to see all messages in the terminak, set this to True
+# If you want to see all messages in the terminal, set this to True
 terminalMessages = True
