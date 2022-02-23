@@ -1,8 +1,7 @@
 import json
 import requests
 
-request = requests.get("https://api.whatexploitsare.online/status")
-info = json.loads(request.text)
+info = json.loads(requests.get("https://api.whatexploitsare.online/status").text)
 
 def get_status(exploit):
     if exploit == "synapse":
