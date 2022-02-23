@@ -33,5 +33,6 @@ if __name__ == "__main__":
                         if terminalMessages == True:
                             print(i + " is still not updated.")
             sleep(wait)
+            print("\n")
     except:
         print("Error : something went wrong.")
