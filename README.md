@@ -14,7 +14,7 @@ whatexploitsare.online notifier
 3. [Requests](https://pypi.org/project/requests/)
 
 # Version:
-1.1
+1.2
 
 # Credits:
 - BabyHamsta/HamstaGang - API
