@@ -12,8 +12,6 @@ if config.temple==True:
     load.append("temple")
 if config.electron==True:
     load.append("electron")
-if config.skisploit==True:
-    load.append("skisploits")
 if config.wearedevs==True:
     load.append("wearedevs")
 if config.oxygenu==True:
