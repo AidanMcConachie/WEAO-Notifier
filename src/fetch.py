@@ -15,8 +15,6 @@ def get_status(exploit):
         return info[3]["Temple"]["updated"]
     elif exploit == "electron":
         return info[6]["Electron"]["updated"]
-    elif exploit == "skisploit":
-        return info[9]["Skisploit"]["updated"]
     elif exploit == "wearedevs":
         return info[8]["WeAreDevs API"]["updated"]
     elif exploit == "oxygenu":
