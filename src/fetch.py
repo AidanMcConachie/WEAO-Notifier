@@ -18,13 +18,13 @@ def get_status(exploit):
     elif exploit == "wearedevs":
         return info[8]["WeAreDevs API"]["updated"]
     elif exploit == "oxygenu":
-        return info[10]["Oxygen"]["updated"]
+        return info[9]["Oxygen"]["updated"]
     elif exploit == "fluxus":
-        return info[11]["Fluxus"]["updated"]
+        return info[10]["Fluxus"]["updated"]
     elif exploit == "celery":
-        return info[12]["Celery"]["updated"]
+        return info[11]["Celery"]["updated"]
     elif exploit == "roware":
-        return info[13]["Ro-Ware"]["updated"]
+        return info[12]["Ro-Ware"]["updated"]
     elif exploit == "westeria":
         return info[4]["Westeria"]["updated"]
     elif exploit == "dx9ware":
