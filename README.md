@@ -18,7 +18,5 @@ whatexploitsare.online notifier
 
 # Credits:
 - BabyHamsta/HamstaGang - API
-- Invell - idk
-- Fad - idk part 2
 - Luminous - This
 
